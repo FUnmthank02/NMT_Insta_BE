@@ -1,0 +1,17 @@
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\bin\Debug\net6.0\Repositories.deps.json
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\bin\Debug\net6.0\Repositories.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\bin\Debug\net6.0\Repositories.pdb
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\bin\Debug\net6.0\DataAccess.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\bin\Debug\net6.0\DataAccess.pdb
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\Repositories.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\Repositories.pdb
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\Repositories\obj\Debug\net6.0\ref\Repositories.dll

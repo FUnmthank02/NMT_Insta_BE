@@ -1,0 +1,14 @@
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
