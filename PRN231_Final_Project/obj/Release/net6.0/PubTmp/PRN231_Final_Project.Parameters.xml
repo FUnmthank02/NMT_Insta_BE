@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="nmt-insta" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^G:\\CODE\\dotNet\\Restfull\ API\\PRN231_Final_Project\\PRN231_Final_Project\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

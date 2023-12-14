@@ -108,3 +108,5 @@ G:\CODE\dotNet\Restfull API\PRN231_Final_Project\PRN231_Final_Project\bin\Debug\
 G:\CODE\dotNet\Restfull API\PRN231_Final_Project\PRN231_Final_Project\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
 G:\CODE\dotNet\Restfull API\PRN231_Final_Project\PRN231_Final_Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
 G:\CODE\dotNet\Restfull API\PRN231_Final_Project\PRN231_Final_Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\PRN231_Final_Project\bin\Debug\net6.0\PRN231_Final_Project.xml
+G:\CODE\dotNet\Restfull API\PRN231_Final_Project\PRN231_Final_Project\obj\Debug\net6.0\PRN231_Final_Project.xml
