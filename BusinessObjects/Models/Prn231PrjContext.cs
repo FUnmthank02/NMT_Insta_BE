@@ -58,12 +58,12 @@ public partial class Prn231PrjContext : DbContext
 
             entity.HasOne(d => d.Post).WithMany(p => p.Comments)
                 .HasForeignKey(d => d.PostId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Comments__postId__5535A963");
 
             entity.HasOne(d => d.User).WithMany(p => p.Comments)
                 .HasForeignKey(d => d.UserId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Comments__userId__5629CD9C");
         });
 
@@ -105,7 +105,7 @@ public partial class Prn231PrjContext : DbContext
 
             entity.HasOne(d => d.Post).WithMany(p => p.Media)
                 .HasForeignKey(d => d.PostId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Media__postId__4E88ABD4");
         });
 
@@ -132,15 +132,18 @@ public partial class Prn231PrjContext : DbContext
 
             entity.HasOne(d => d.FromUser).WithMany(p => p.NotificationFromUsers)
                 .HasForeignKey(d => d.FromUserId)
-                .HasConstraintName("FK__Notificat__fromU__17036CC0");
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("FK__Notificat__fromU__70DDC3D8");
 
             entity.HasOne(d => d.Post).WithMany(p => p.Notifications)
                 .HasForeignKey(d => d.PostId)
-                .HasConstraintName("FK__Notificat__postI__18EBB532");
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("FK_Post_Notification");
 
             entity.HasOne(d => d.ToUser).WithMany(p => p.NotificationToUsers)
                 .HasForeignKey(d => d.ToUserId)
-                .HasConstraintName("FK__Notificat__toUse__17F790F9");
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("FK__Notificat__toUse__72C60C4A");
         });
 
         modelBuilder.Entity<Post>(entity =>
@@ -156,7 +159,7 @@ public partial class Prn231PrjContext : DbContext
 
             entity.HasOne(d => d.User).WithMany(p => p.Posts)
                 .HasForeignKey(d => d.UserId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK_Post_User");
         });
 
@@ -173,12 +176,12 @@ public partial class Prn231PrjContext : DbContext
 
             entity.HasOne(d => d.Post).WithMany(p => p.Reactions)
                 .HasForeignKey(d => d.PostId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Reactions__postI__52593CB8");
 
             entity.HasOne(d => d.User).WithMany(p => p.Reactions)
                 .HasForeignKey(d => d.UserId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("FK__Reactions__userI__5165187F");
         });
 
